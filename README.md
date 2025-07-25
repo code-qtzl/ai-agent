@@ -39,7 +39,7 @@ GEMINI_API_KEY="<YOUR_TOKEN_HERE>"
 3) Use the `--verbose` flag to see detailed execution information:
 ```bash
   python main.py "your prompt here" --verbose
-
+```
 
 > [!WARNING]
 > This project is a toy and is for educational purposes only. 
